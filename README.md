@@ -1,4 +1,4 @@
-# Information Retrieval from Multiple PDF 💁💬 with PaLM2
+# Multimodal-Information-Aggregation-Engine-using-PaLM2
 
 
 # How to run?
